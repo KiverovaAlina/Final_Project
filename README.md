@@ -8,6 +8,7 @@ Cсылка на проект https://kiverovaalina.github.io/Final_Project_buil
 4. npm run start
 
 Структура:  
+  
 .cache - кэш  
 .git - папка, в которой хранится все необходимое для Git (создается автоматически, когда создается новый репозиторий)  
 dist - папка, которую генерирует Parcel  
