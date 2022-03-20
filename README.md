@@ -1,5 +1,5 @@
 Итоговый проект представляет собой трехстраничный сайт, состоящий из страниц "о себе", "таймер" и "галерея".
-Cсылка на проект https://kiverovaalina.github.io/Final_Project_build/Gallery/index.html
+Cсылка на проект https://kiverovaalina.github.io/Final_Project_build/index.html
 
 Установка:
 1. Скачайте репозиторий с GitHub
